@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Curtis
+	email = curtis99877@gmail.com
+[push]
+	default = simple
